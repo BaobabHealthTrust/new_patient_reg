@@ -91,7 +91,7 @@ GEM
       railties (>= 3.0, < 5.0)
       thor (>= 0.14, < 2.0)
     json (1.8.6)
-    libv8 (3.16.14.19-x86_64-linux)
+    libv8 (3.16.14.19)
     mac-address (1.6.3)
       systemu (~> 2.5.0)
     mail (2.7.1)
@@ -128,7 +128,7 @@ GEM
       activesupport (= 4.1.15)
       rake (>= 0.8.7)
       thor (>= 0.18.1, < 2.0)
-    rake (10.3.2)
+    rake (12.3.3)
     rb-readline (0.5.5)
     rdoc (4.3.0)
     redirectr (0.1.1)
@@ -206,7 +206,7 @@ DEPENDENCIES
   passenger (= 4.0.53)
   pdfkit
   rails (= 4.1.15)
-  rake (= 10.3.2)
+  rake (= 12.3.3)
   rb-readline
   redirectr
   rmagick
