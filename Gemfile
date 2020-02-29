@@ -38,7 +38,7 @@ gem 'mysql2','~> 0.3.21'
 
 gem 'bcrypt-ruby', :require => 'bcrypt'
 
-gem 'rake', '10.3.2'
+gem 'rake', '12.3.3'
 
 gem 'cancancan', '1.8.2'
 
